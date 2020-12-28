@@ -1,0 +1,12 @@
+data-split
+ml-100k
+ml-10m.zip
+ml-1m.zip
+ml-1m
+ml-10m
+ml-25m
+ml-latest-small
+Mall_Customers.csv
+.idea
+venv
+__pycache__
